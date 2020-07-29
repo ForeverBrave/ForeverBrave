@@ -22,6 +22,9 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
+[![ForeverBrave's github stats](https://github-readme-stats.vercel.app/api?username=ForeverBrave)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **ForeverBrave/ForeverBrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,4 +40,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ForeverBrave)
+
