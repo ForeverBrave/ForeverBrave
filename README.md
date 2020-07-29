@@ -1,4 +1,4 @@
-### 👋Hi,I'm Brave,Welcome to my Github:airplane:.
+### Hi,I'm Brave,Welcome to my Github:airplane:.
 
 ### Languages and Tools
 <p>  
