@@ -32,24 +32,10 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 </p>
 
-#### :sparkling_heart: Focusing BBC
-
-<a href="https://chat.getloli.com/room/@ForeverBrave.github?title=ForeverBrave-chatroom"><img src="https://chat.getloli.com/room/@ForeverBrave.github/svg?width=600&height=280&limit=20&theme=light&title=ForeverBrave@github:%20~&fontSize=13" align="left"></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### :fire: Wait for you
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+#### :sparkling_heart: Focusing BBC
+
+<a href="https://chat.getloli.com/room/@ForeverBrave.github?title=ForeverBrave-chatroom"><img src="https://chat.getloli.com/room/@ForeverBrave.github/svg?width=600&height=280&limit=20&theme=light&title=ForeverBrave@github:%20~&fontSize=13" align="left"></a>
